@@ -1,0 +1,268 @@
+{
+    "industries": [
+        {
+            "name": "The State Teachers Retirement Sysytem of Ohio",
+            "nick": "STRS Ohio"
+        }
+    ],
+    "stocks": [
+        {
+            "name": "IBM",
+            "ticker": "IBM",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+                {
+                    "date": "2020-11-20",
+                    "price": 115.5,
+                    "number": 15
+                }
+            ],
+            "history": [
+                {
+                    "date": "2020-11-20",
+                    "type": "BUY",
+                    "price": 115.5,
+                    "number": 15,
+                    "commition": 0.1,
+                    "currency": "DOLLAR"
+                },
+                {
+                    "date": "2020-11-20",
+                    "type": "SELL",
+                    "price": 130,
+                    "number": 15,
+                    "commition": 0.1,
+                    "currency": "DOLLAR"
+                }
+            ]
+        },
+        {
+            "name": "Apple",
+            "ticker": "AAPL",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "GE",
+            "ticker": "GE",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "SHLX",
+            "ticker": "SHLX",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "WFC",
+            "ticker": "WFC",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "Tesla",
+            "ticker": "TSLA",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "General Motors",
+            "ticker": "GM",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "NIO",
+            "ticker": "NIO",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "LI",
+            "ticker": "LI",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "FSR",
+            "ticker": "FSR",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        },
+        {
+            "name": "SUNW",
+            "ticker": "SUNW",
+            "price": {
+                "open": 125.5,
+                "close": 126.5,
+                "high": 130,
+                "low": 125
+            },
+            "risk": {
+                "ratio": 0.05,
+                "alert_percentage_boundery": {
+                    "high": 0.1,
+                    "low": 0.1
+                }
+            },
+            "holding": [
+            ],
+            "history": [
+            ]
+        }
+    ],
+    "user": {
+        "email": "yevgeniy.kiveisha@gmail.com",
+        "telegram": {
+
+        }
+    }
+}
